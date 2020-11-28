@@ -1,0 +1,1 @@
+[{"input":"stringone,stringone","output":"strings are equal","error":"incorrect logic","priority":3,"name":"testcase1"},{"input":"StringOne,stringone","output":"strings are not equal","error":"incorrect logic","priority":3,"name":"testcase2"}]
